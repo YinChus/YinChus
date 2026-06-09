@@ -27,7 +27,7 @@ My core interests include:
 - Implemented step-by-step grading with event sequence diagrams, achieving 92% accuracy on full-score assignments and a QWK of 0.89.
 - Optimized the GKT model with knowledge graph features, reaching AUC = 0.9154 and ACC = 0.8937.
 - Tech stack: Python, LangChain, Neo4j, MySQL, FastAPI
-- Repository: [github.com/your-username/intelligent-physics-tutor](https://github.com/your-username/intelligent-physics-tutor)
+- Repository: http://tjzhwl.com.cn/
 
 #### 📐 ZhiHui Academy: Interactive Math Learning Platform
 > A multi-agent system for generating and visualizing high school math learning content.
@@ -35,7 +35,7 @@ My core interests include:
 - Fine-tuned Qwen2.5-Coder with LoRA to generate 2D/3D visualizations in 10 seconds on average.
 - Implemented standardized data schemas and MCP-compliant function calls for mathematical scenarios.
 - Tech stack: Python, LangGraph, Pydantic, Docker, GeoGebra
-- Repository: [github.com/your-username/zhihui-academy](https://github.com/your-username/zhihui-academy)
+- Repository: ([https://github.com/your-username/zhihui-academy](https://github.com/YinChus/wisdomdrawingschool))
 
 ---
 
