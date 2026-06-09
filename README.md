@@ -47,13 +47,7 @@ My core interests include:
 | **Programming**        | Python, R, SQL, C++, JavaScript                                                      |
 | **DevOps & Tools**     | Docker, Git, Linux, FastAPI, Streamlit, Figma, Dify, Coze                           |
 
----
 
-### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="300">
-</div>
 
 ---
 
